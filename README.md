@@ -1,7 +1,8 @@
-# PROGRAMACION DE SISTEMAS
+# PRACTICAS DE LA EE PROGRAMACION DE SISTEMAS
 En este apartado estarán la diversas actividades analizadas en el curso
 
 ## ENSAMBLADOR
+### Historia
 Para poder programar en Bajo nivel debemos conocer desde lo básico hasta lo mas complicado.
 La primera computadora programable fue la ENIAC en 1946 pero se programaba mediante circuitos complejos que no eran nada funcionales. Después se empezó a utilizar el lenguaje maquina que son claves binaras que representan un CÓDIGO DE OPERACIÓN(OPCODE). Estas se almacenan en grupos de instrucciones llamados PROGRAMAS.
 
