@@ -15,3 +15,14 @@ Actualmente manejamos lenguajes de Alto nivel que son relativamente sencillos a 
 Nombre de la instrucción Operando 1, Operando 2, Operando 3, Operando 4, Operando N. 
 El nombre de la instrucción está formada por 2 o 3 letras, los operandos pueden ser registros, constantes o direcciones de memoria. La cantidad de operandos dependerá de la instrucción.
 
+## CARGADORES
+
+
+## LIGADORES
+
+
+## BIBLIOTECAS ESTATICAS
+
+
+## BIBLIOTECAS DINAMICAS
+
