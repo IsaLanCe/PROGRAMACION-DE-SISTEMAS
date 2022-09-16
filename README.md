@@ -1,5 +1,5 @@
 # PRACTICAS DE LA EE PROGRAMACION DE SISTEMAS
-En este apartado estarán la diversas actividades analizadas en el curso
+En este apartado estarán la diversas actividades analizadas y realizadas en el curso
 
 ## ENSAMBLADOR
 ### Historia
