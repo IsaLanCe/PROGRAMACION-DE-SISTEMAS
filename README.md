@@ -10,3 +10,5 @@ Esto llego a ser muy complicado debido a que se debían aprender series enormes 
 Para realizar la suma se tenia una instrucción binaria muy similar a "00101010010100101". Es por eso que se complicaba demasiado manejar este tipo de programación.
 
 Actualmente manejamos lenguajes de Alto nivel que son relativamente sencillos a comparación con el lenguaje maquina. Pero no se llego al alto nivel desde el código binario, existe un lenguaje que nació para facilitar el binary code. Este se llama **"LENGUAJE ENSAMBLADOR"**.
+
+![Computadora ENIAC](Descargas/eniac2.jpg)
