@@ -15,6 +15,11 @@ Actualmente manejamos lenguajes de Alto nivel que son relativamente sencillos a 
 Nombre de la instrucción Operando 1, Operando 2, Operando 3, Operando 4, Operando N. 
 El nombre de la instrucción está formada por 2 o 3 letras, los operandos pueden ser registros, constantes o direcciones de memoria. La cantidad de operandos dependerá de la instrucción.
 
+*Por ejemplo:*
+
+MOV AL, [1000]
+
+Esta instrucción indica que se copie el valor de la porción de la memoria que esté en la ubicación 1000 (En hexadecimal) a la parte baja del registro AX (AL). Cuando un operando es un valor de una dirección de memoria, ésta dirección se escribe entre corchetes, recordar que el operando 1 es el destino y el operando 2 es el origen. Y cuando es una constante dependerá del ensamblador, en el caso del debug (Un programa que sirve para crear y editar aplicaciones que viene con el DOS) se interpretarán como hexadecimales, en los siguientes ejemplos se interpretará que las constantes son números hexadecimales.
 ## CARGADORES
 
 
